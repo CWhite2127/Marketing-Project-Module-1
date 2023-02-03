@@ -20,4 +20,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 **# Screenshot**
-![Alt text](../../Downloads/_C__Users_cwhit_module-1-project_Module-1-Project_index.html.png)
+![_C__Users_cwhit_module-1-project_Module-1-Project_index html](https://user-images.githubusercontent.com/123609107/216726801-53b2b3c5-a723-422a-9c26-d81d6e6006b6.png)
+
+**# Link**
+https://cwhite2127.github.io/Marketing-Project-Module-1/#search-engine-optimization
